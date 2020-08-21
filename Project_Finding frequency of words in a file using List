@@ -1,0 +1,21 @@
+file = open("WitchWitch.txt","r")
+
+lines = file.readlines()
+
+count = 0
+
+myList = []
+myIndex = []
+
+for line in lines:
+    for item in line.strip().split():
+        if item not in myList:
+            myList.append(item)
+            myIndex.append(1)
+            count = count + 1
+
+        else:
+            myIndex[myList.index(item)] = myIndex[myList.index(item)] + 1
+
+for item in myList:
+    print("{:15} : {}".format(item,myIndex[myList.index(item)]))
