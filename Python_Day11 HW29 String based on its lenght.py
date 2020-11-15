@@ -1,1 +1,1 @@
-# Accept a string
+# Accept a string and
