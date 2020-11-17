@@ -1,1 +1,1 @@
-# Accept a string and display the
+# Accept a string and display the given 
