@@ -1,1 +1,1 @@
-# Accept a string and display the given string based on it's
+# Accept a string and display the given string based on it's lenght
