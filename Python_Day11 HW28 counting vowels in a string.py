@@ -9,3 +9,4 @@ print("Number of vowels = ",cnt)
 print("Number of consonents = ",len(s)-cnt)
 
 input()
+
