@@ -10,3 +10,4 @@ print("Number of consonents = ",len(s)-cnt)
 
 input()
 
+
