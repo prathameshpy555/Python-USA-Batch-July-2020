@@ -29,3 +29,5 @@ for i in (number):
             print("{} : {}".format(temp,"the number is palidrome!"))
 
 input()
+
+
