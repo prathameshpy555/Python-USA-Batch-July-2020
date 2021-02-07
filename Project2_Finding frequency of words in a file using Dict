@@ -12,3 +12,4 @@ for line in lines:
 
 for item in myDict:
     print("{:15} : {}".format(item,myDict[item]))
+
