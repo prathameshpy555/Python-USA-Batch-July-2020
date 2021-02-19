@@ -21,4 +21,3 @@ p . left(90)
 
 
 input()
-
