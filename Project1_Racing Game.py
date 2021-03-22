@@ -197,5 +197,3 @@ print("winner with fastest run is", names[k.index(max(k))]," in ",max(k),"milise
 input()
 
 
-
-
