@@ -195,7 +195,3 @@ t.end_fill()
 print("winner with fastest run is", names[k.index(max(k))]," in ",max(k),"miliseconds")
 
 input()
-
-
-
-
