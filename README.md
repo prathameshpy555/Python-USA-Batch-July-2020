@@ -1,2 +1,2 @@
 # Python-USA-Batch-July-2020
-My Python Learning Summar
+My Python Learning Summary
